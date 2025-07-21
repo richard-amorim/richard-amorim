@@ -1,5 +1,6 @@
 # Olá, me chamo Richard A. Amorim ! 
 ## Bem vindo ao meu perfil GitHub 👋
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardamorim&layout=compact&langs_count=7&theme=dark"/>
